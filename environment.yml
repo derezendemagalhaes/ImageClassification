@@ -1,0 +1,16 @@
+name: ImageClassification
+channels:
+  - conda-forge
+dependencies:
+  - python=3
+  - ipython
+  - jupyter
+  - matplotlib
+  - numpy
+  - pandas
+  - geopandas
+  - scikit-learn
+  - earthengine-api
+  - rasterio
+  - shapely
+  - tensorflow
